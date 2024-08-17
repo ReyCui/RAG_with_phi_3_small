@@ -6,7 +6,8 @@
 #### 一、项目概述：
 
 本项目使用RAG（Retrieval Augemented Generation，检索增强生成）技术对 microsoft/phi-3-small-128k-instruct 模型进行微调，目标是开发一款智能的人力资源（HR）问答机器人，该机器人能够利用大型语言模型针对私有数据进行高效准确的问题回答。请注意，目前仅支持txt格式的文档格式，后续会增加其他格式的支持。
-![RAG流程](./images/image.png)
+![image](https://github.com/user-attachments/assets/3aeb89f7-ba08-4d48-b863-a8f43aa1cb38)
+
 
 #### 二、技术方案与实施步骤
 
