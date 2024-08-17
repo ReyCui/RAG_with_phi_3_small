@@ -97,7 +97,8 @@ print(faiss.__version__)
 ```
 
 3.2. 代码实现： 
-![image](https://github.com/user-attachments/assets/4cad2ca9-1dd7-4367-9743-f9f58115771f)
+![image](https://github.com/user-attachments/assets/f321b9e8-0726-4fe0-ad0c-e0665fba6716)
+
 
 ![image](https://github.com/user-attachments/assets/562af456-23a6-4f80-9faf-2e19828f44d4)
 
