@@ -97,22 +97,27 @@ print(faiss.__version__)
 ```
 
 3.2. 代码实现： 
-![文档处理及向量化存储](./images/image-7.png)
-![alt text](./images/image-6.png)
+![image](https://github.com/user-attachments/assets/4cad2ca9-1dd7-4367-9743-f9f58115771f)
+
+![image](https://github.com/user-attachments/assets/562af456-23a6-4f80-9faf-2e19828f44d4)
+
 
 
 
 #### 四、项目成果与展示：
 
 原始模型的回答示例：
-![原始模型回答](./images/image-5.png)
+![image](https://github.com/user-attachments/assets/c0c3e40d-79d4-49a2-b714-4ec34e7db73d)
+
 RAG模型的回答示例：
-![RAG模型的回答](./images/image-6.png)
+![image](https://github.com/user-attachments/assets/34ab13de-feb9-47c6-a6f9-529901991ec5)
+
 通过上述对比，可以明显看出RAG模型的回答更加准确和精确。RAG模型利用了文档中的具体信息来构建答案，而原始模型则可能基于一般的知识或模糊的关联来进行回答。这种差异对于需要高度准确信息的企业环境尤为重要。
 
 #### 五、问题与解决方案：
 
-![txt文档问题](./images/image8.png)
+![image](https://github.com/user-attachments/assets/d953c2f0-ebed-4585-af33-e46333a74cf9)
+
 
 5.1 问题描述:    
 在尝试使用 FAISS.from_texts 时遇到了上述错误，并且发现问题出在 CharacterTextSplitter 的配置上。
